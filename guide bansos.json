@@ -1,0 +1,169 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    },
+    {
+      "id": 3,
+      "title": "Nova Skin for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+    },
+    {
+      "id": 4,
+      "title": "Scanner Document App - HD PDF",
+      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+    },
+    {
+      "id": 6,
+      "title": "Super Math Solver Calculator",
+      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+    },
+    {
+      "id": 8,
+      "title": "Twibbon Maker",
+      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+    },
+    {
+      "id": 9,
+      "title": "Kamus Bahasa Indonesia",
+      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+    },
+    {
+      "id": 10,
+      "title": "Data Gempabumi Terbuka",
+      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cek Bansos ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBbQJ-x_jHo0DwHpJvQ5d6zBxKSUXfkod7uQ&usqp=CAU",
+      "description": "Untuk mengetahui apakah Anda terdaftar sebagai penerima bansos. ",
+      "link": "file:///android_asset/guide/guide1a.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara Cek Bansos PKH Online",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcqQ-Kg9Jq47elga63gGo1mteZOEaInPVGBA&usqp=CAU",
+      "description": "Cara mengecek bansos Program Keluarga Harapan (PKH) dapat dilakukan secara mandiri melalui online.",
+      "link": "file:///android_asset/guide/guide2a.html" 
+    },
+	{
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Cara Daftar Bansos 2023",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASKeXT_oaCAu7Jqe6980ORm5DkfOSLvx9fQ&usqp=CAU",
+      "description": "Aplikasi Cek Bansos juga menyediakan Fitur Usul untuk mendaftarkan masyarakat yang berhak memperoleh bantuan, tetapi belum terdata. ",
+      "link": "file:///android_asset/guide/guide3a.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "CEK Penerima Bansos Pangan",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQI0eyYtYuyxHdF1-G45x2LcPTHDcuKMfiJg&usqp=CAU",
+      "description": "bansos pangan hanya diberikan kepada golongan keluarga penerima manfaat (KPM) yang berasal Data Terpadu Kesejahteraan Sosial (DTKS) Kemensos.",
+      "link": "file:///android_asset/guide/guide4a.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Reskin",
+      "title": "BLT BBM Cair",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIsl8jzP3rwloGB78EM0ILBlDGKD2OZn4Uzg&usqp=CAU",
+      "description": "Cek Nama Kamu di Sini!",
+      "link": "file:///android_asset/guide/guide5a.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Reskin",
+      "title": "Cek BST ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn1hRsrYmnfFt-_eKskejcUuoDIKpy1Fp_Fw&usqp=CAU",
+      "description": "DTKS Kemensos terbuka untuk masyarakat umum",
+      "link": "file:///android_asset/guide/guide6a.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Reskin",
+      "title": "Pencarian Data Penerima Bantuan Sosial Tunai BST",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoV_V4DbfgAIx5rS7uZOeOXluxR6UhaFkxMQ&usqp=CAU",
+      "description": "Bantuan tunai Rp500 ribu kepada 9 juta Keluarga Penerima Manfaat ( KPM) Program Kartu Sembako non PKH.",
+      "link": "file:///android_asset/guide/guide5a.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Reskin",
+      "title": "Penjelasan Ditolaknya Pendaftar Sebagai Penerima Bansos",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn1hRsrYmnfFt-_eKskejcUuoDIKpy1Fp_Fw&usqp=CAU",
+      "description": "Bantuan Sosial Provinsi (Bansos Provinsi) adalah program bantuan sosial yang diselenggarakan oleh Pemerintah Daerah Provinsi Jawa Barat.",
+      "link": "file:///android_asset/guide/guide5a.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Reskin",
+      "title": "Bansos PBI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaDi6oLFfBpyIgs-cICeKzZ0c5zg7Tm_CJ5Q&usqp=CAU",
+      "description": "Penerima Bantuan Iuran yang dikeluarkan oleh pemerintah melalui Kementerian Sosial.",
+      "link": "file:///android_asset/guide/guide5a.html"
+    }
+  ]
+}
