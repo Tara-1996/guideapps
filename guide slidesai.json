@@ -1,0 +1,169 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    },
+    {
+      "id": 3,
+      "title": "Nova Skin for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+    },
+    {
+      "id": 4,
+      "title": "Scanner Document App - HD PDF",
+      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+    },
+    {
+      "id": 6,
+      "title": "Super Math Solver Calculator",
+      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+    },
+    {
+      "id": 8,
+      "title": "Twibbon Maker",
+      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+    },
+    {
+      "id": 9,
+      "title": "Kamus Bahasa Indonesia",
+      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+    },
+    {
+      "id": 10,
+      "title": "Data Gempabumi Terbuka",
+      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Slides AI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyYllZY4HM1YGR4wAeGd4wM2Am28E77NFM5w&usqp=CAU",
+      "description": "About of Slides AI ",
+      "link": "file:///android_asset/guide/guide1a.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Presentation Slides With AI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTla6YfQfIHVAdgbMWycTkHfdmH41rpM_Ipg&usqp=CAU",
+      "description": "Create Presentation Slides With AI in Second",
+      "link": "file:///android_asset/guide/guide2a.html" 
+    },
+	{
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "How to use Slides AI ?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_mFGqpDiWkf1NOZqrkBGES8S5hbCYC_5tVQ&usqp=CAU",
+      "description": "This Article how to use Slides AI",
+      "link": "file:///android_asset/guide/guide3a.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Use Slides AI ?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Fi8_bIL_xK7DYU1gZuyJRVQrimVprsaWG-C5WZP2y5CkdHFIEtKpC-rJr9RPinueGEY&usqp=CAU",
+      "description": "The 5 Slides Killing Your Productivity",
+      "link": "file:///android_asset/guide/guide4a.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Reskin",
+      "title": "Potential Problems and Possible Solutions",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxSnJfJgiqgP6PbmrUV7vb_0WheCf0FZo479bKLyEg3nTQygg9dUmdWlzCSkjsz0FDErU&usqp=CAU",
+      "description": "If you are experiencing problems with using AI in creating or enhancing slide presentations, here are a few potential issues and their possible solutions",
+      "link": "file:///android_asset/guide/guide5a.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Reskin",
+      "title": "Slides AI Alternatives",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gfr-XmQKX2GLsDdeweBu2L_oJBpVop6tI0g6UEleeZQD9bW4nGASGoorHGNHWikLRVg&usqp=CAU",
+      "description": "several sites and other platforms that provide AI features to assist you in creating slide presentations.",
+      "link": "file:///android_asset/guide/guide6a.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Reskin",
+      "title": "Unblock Slides AI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG6onmLlJvnUEX8qzddsFP6ZZJg5V-JmqzFA&usqp=CAU",
+      "description": " there are a few potential methods to try to unblock it.",
+      "link": "file:///android_asset/guide/guide7a.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Reskin",
+      "title": "How to Install and use Slides AI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLv2r8l0fLfi-c1DlaWz601xrTxwF3GQ2ECQ&usqp=CAU",
+      "description": "Step by Step Guide",
+      "link": "file:///android_asset/guide/guide8a.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Reskin",
+      "title": "Simple pricing,for everyone.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7OckBdq2EvUQtRvI7xPrLdbp7duKhMvU8g&usqp=CAU",
+      "description": "Monthly And Yearly",
+      "link": "file:///android_asset/guide/guide9a.html"
+    }
+  ]
+}
