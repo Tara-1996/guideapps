@@ -1,0 +1,71 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Slides Ai Advice",
+      "image": "https://play-lh.googleusercontent.com/sihobgS1t7uMAsQklJHp1Km2-cw5oO_MI4ZASIlR6ree2sRV3XLI6DfV0noCj21wgg=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.guideslidesai&hl=en-ID"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "HOW MUCH DOES LALAL.AI COST?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBAHm8GoLVTMwbQOZhmXJVAV5fOp1ZGRs31w&usqp=CAU",
+      "description": "Lalal Ai Is...",
+      "link": "https://patbelas39.blogspot.com/p/how-much-does-lalalai-cost.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Lalal Review",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_-UU6FNqvQmODuxqvEE6ZqMWcOM8JO1CTDA&usqp=CAU",
+      "description": "I tested the software with a full account, which basically just gives you way more upload time, allowing you to process more files.",
+      "link": "https://patbelas39.blogspot.com/p/ill-detail-my-experience-in-this.html" 
+    }
+  ]
+}
