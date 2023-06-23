@@ -66,6 +66,70 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSecznerPLhUFvJmX0xpAex3Yv31veVaCSbhjHWWcMmPBOqCHIdKyAK2EjzrVNeFeyeBI4&usqp=CAU",
       "description": "Flair AI: Revolutionizing AI Content Design",
       "link": "https://patbelas39.blogspot.com/p/flair-ai-revolutionizing-ai-content.html" 
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Features and Capabilities of Flair AI Design Tool",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5BvGEegTsa6xxoxAbt8Cqs2vOmoUjScB5Q&usqp=CAU",
+      "description": "Features and Capabilities of Flair AI Design Tool",
+      "link": "https://patbelas39.blogspot.com/p/flair-ai-design-tool.html" 
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "Flair AI Design Tool",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6YQ2NCkz_MvR3nsSYbVVEtJJzjCz40q21vg&usqp=CAU",
+      "description": "Flair AI Design Tool",
+      "link": "https://patbelas39.blogspot.com/p/features-and-capabilities-of-flair-ai.html" 
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "Benefits of Using Flair AI Design Tool",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjrpxIqBFIMKaESptu6Wf3sd2NwdeUb2cow&usqp=CAU",
+      "description": "Benefits of Using Flair AI Design Tool",
+      "link": "https://patbelas39.blogspot.com/p/benefits-of-using-flair-ai-design-tool.html" 
+    },
+    {
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": " How to Use Flair AI Design Tool?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjrpxIqBFIMKaESptu6Wf3sd2NwdeUb2cow&usqp=CAU",
+      "description": " How to Use Flair AI Design Tool?",
+      "link": "https://patbelas39.blogspot.com/p/how-to-use-flair-ai-design-tool.html" 
+    },
+    {
+      "id": 7,
+      "name_category": "Tutorial",
+      "title": " Examples of Flair AI Design Tool in Action",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjrpxIqBFIMKaESptu6Wf3sd2NwdeUb2cow&usqp=CAU",
+      "description": " Examples of Flair AI Design Tool in Action",
+      "link": "https://patbelas39.blogspot.com/p/examples-of-flair-ai-design-tool-in.html" 
+    },
+    {
+      "id": 8,
+      "name_category": "Tutorial",
+      "title": " Strengths and Weaknesses of Flair AI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjrpxIqBFIMKaESptu6Wf3sd2NwdeUb2cow&usqp=CAU",
+      "description": " Strengths and Weaknesses of Flair AI",
+      "link": "https://patbelas39.blogspot.com/p/strengths-and-weaknesses-of-flair-ai.html" 
+    },
+    {
+      "id": 9,
+      "name_category": "Tutorial",
+      "title": "Pricing of Flair AI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjrpxIqBFIMKaESptu6Wf3sd2NwdeUb2cow&usqp=CAU",
+      "description": "Pricing of Flair AI",
+      "link": "https://patbelas39.blogspot.com/p/pricing-of-flair-ai.html" 
+    },
+    {
+      "id": 10,
+      "name_category": "Tutorial",
+      "title": " Comparison & conclusion",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjrpxIqBFIMKaESptu6Wf3sd2NwdeUb2cow&usqp=CAU",
+      "description": "Comparison & conclusion",
+      "link": "https://patbelas39.blogspot.com/p/comparison-conclusion.html" 
     }
   ]
 }
