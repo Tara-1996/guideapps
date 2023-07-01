@@ -102,7 +102,7 @@
       "id": 1,
       "name_category": "Playstore",
       "title": " Sekilas Mengenai PLN",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMAaB0lYUSaiz8cmBrHKoj_8Fw25sGvdR8hQ&usqp=CAU",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKz5rDDp7XKYslvTDF5XKoAi3uWeTEQDfktaI374kbDJz1WXe_dcc8ICt3tnmuaXGlNXs&usqp=CAU",
       "description": "Sekilas Mengenai PLN",
       "link": "https://patbelas39.blogspot.com/p/bokeh-museum-jpg.html"
     },
@@ -110,7 +110,7 @@
       "id": 2,
       "name_category": "Tutorial",
       "title": "Cek Tagihan Listrik PLN Online",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMAaB0lYUSaiz8cmBrHKoj_8Fw25sGvdR8hQ&usqp=CAU",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqdTLasCDPlaKj3Ipdg6m_dlNkpo7pK_4-OBT_bT_-2drFKxidvZJ5tOIcnGpqQWulgQo&usqp=CAU",
       "description": "Cek Tagihan Listrik PLN Online",
       "link": "https://patbelas39.blogspot.com/p/bokeh-museum-jpg.html" 
     }
