@@ -31,7 +31,6 @@
       "title": "Slides Ai Advice",
       "image": "https://play-lh.googleusercontent.com/sihobgS1t7uMAsQklJHp1Km2-cw5oO_MI4ZASIlR6ree2sRV3XLI6DfV0noCj21wgg=w240-h480-rw",
       "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.guideslidesai&hl=en-ID"
-    }
   ],
   "Categories": [
     {
