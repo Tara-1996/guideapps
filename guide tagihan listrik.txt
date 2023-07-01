@@ -42,18 +42,6 @@
       "title": "Flair Ai App Workflow",
       "image": "https://play-lh.googleusercontent.com/kokFfVcVu9L7gC-Owky_QT8MLPZIobA_-_EDDrB3OzQ6nwl-N_nQ3bIXBeFuZkmK5Q=w240-h480-rw",
       "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.guideflairai&hl=id-ID"
-    },
-    {
-      "id": 4,
-      "title": "Wisecut Ai App Helper",
-      "image": "https://play-lh.googleusercontent.com/rKlrI-kkQW2jkH7f2cakEG7Gsp2eI_PQ9mEJuccxClAoybwsNSwZBPmqZN7pbgdL_0lQ=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.guidewisecutai&hl=id-ID"
-    },
-    {
-      "id": 5,
-      "title": "Cara Cek Bansos",
-      "image": "https://play-lh.googleusercontent.com/geHHV0BKYf9Ophe-LWvmTxvXTRodH8wf8wnQI6PT9p-GYoX5Nvr51Ta7PHDhIeFFVPEs=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.caracekbansos&hl=id-ID"
     }
   ],
   "Categories": [
