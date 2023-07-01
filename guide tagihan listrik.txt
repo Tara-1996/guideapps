@@ -104,7 +104,7 @@
       "title": " Sekilas Mengenai PLN",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMAaB0lYUSaiz8cmBrHKoj_8Fw25sGvdR8hQ&usqp=CAU",
       "description": "Sekilas Mengenai PLN",
-      "link": "https://patbelas39.blogspot.com/p/sekilas-mengenai-pln.html"
+      "link": "https://patbelas39.blogspot.com/p/bokeh-museum-jpg.html"
     },
     {
       "id": 2,
@@ -112,7 +112,7 @@
       "title": "Cek Tagihan Listrik PLN Online",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMAaB0lYUSaiz8cmBrHKoj_8Fw25sGvdR8hQ&usqp=CAU",
       "description": "Cek Tagihan Listrik PLN Online",
-      "link": "https://patbelas39.blogspot.com/p/cek-tagihan-listrik-pln-online-via.html" 
+      "link": "https://patbelas39.blogspot.com/p/bokeh-museum-jpg.html" 
     }
   ]
 }
