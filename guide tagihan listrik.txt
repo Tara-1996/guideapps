@@ -31,17 +31,6 @@
       "title": "Slides Ai Advice",
       "image": "https://play-lh.googleusercontent.com/sihobgS1t7uMAsQklJHp1Km2-cw5oO_MI4ZASIlR6ree2sRV3XLI6DfV0noCj21wgg=w240-h480-rw",
       "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.guideslidesai&hl=en-ID"
-    },
-      "id": 2,
-      "title": "Bokeh Jpg Full Hd",
-      "image": "https://play-lh.googleusercontent.com/cydoyndm4o43HFu_wQTX7JNoDYAxKgksNR_abDWILzJ0R5MiwdQUg7QOOPLXI4Ro=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.guidebokehjpg&hl=id-ID"
-    },
-    {
-      "id": 3,
-      "title": "Flair Ai App Workflow",
-      "image": "https://play-lh.googleusercontent.com/kokFfVcVu9L7gC-Owky_QT8MLPZIobA_-_EDDrB3OzQ6nwl-N_nQ3bIXBeFuZkmK5Q=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.guideflairai&hl=id-ID"
     }
   ],
   "Categories": [
