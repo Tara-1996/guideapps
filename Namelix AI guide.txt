@@ -66,6 +66,70 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrkWwPJqyUlA1dlSULkFoEUXZdoqEoGutbVg&usqp=CAU",
       "description": "Learn more about Namelix with customer reviews, pricing information, and frequently asked questions.",
       "link": "https://patbelas39.blogspot.com/p/namelix-review.html" 
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Namelix - Features, Pricing & Use Cases",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQyyipTKoJfBeTBnRK3Mn84VgjK-nu8TPxqw&usqp=CAU",
+      "description": "Unlock your free access to Namelix now and generate up to 5 unique",
+      "link": "https://patbelas39.blogspot.com/p/namelix-features-pricing-use-cases.html" 
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "Namelix: The AI-Powered Business Name Generator",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbwyTJ1I2u71KU3eJqFst5ZFvqkL2MKq-BA&usqp=CAU",
+      "description": "In the world of business, a name can make or break your brand. It's the first thing your customers see, and it's what they'll remember. That's where Namelix comes in.",
+      "link": "https://patbelas39.blogspot.com/p/namelix-ai-powered-business-name.html" 
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "Benefits",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP89apbKpV8oGQLiz7ar4jArHBbbf_qmQdRw&usqp=CAU",
+      "description": "Namelix offers a range of features that make it the ideal choice for creating distinctive business names and logos",
+      "link": "https://patbelas39.blogspot.com/p/benefits.html" 
+    },
+    {
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "Pros and Cons of Namelix",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQ67AZlwT3hzWemjJ2jPo0TuVhp1yBbx4zg&usqp=CAU",
+      "description": "AI-Powered: Uses artificial intelligence for name generation, ensuring unique and catchy names.",
+      "link": "https://patbelas39.blogspot.com/p/pros-and-cons-of-namelix.html" 
+    },
+    {
+      "id": 7,
+      "name_category": "Tutorial",
+      "title": "Frequently Asked Questions - FAQ’s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDk3tCy_Suc2i20vD55gXcWKPoI-sLx5DQxQ&usqp=CAU",
+      "description": "1. How does Namelix generate names?",
+      "link": "https://patbelas39.blogspot.com/p/frequently-asked-questions-faqs.html" 
+    },
+    {
+      "id": 8,
+      "name_category": "Tutorial",
+      "title": "Review",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrhuX0l1R_ZgNGKU-NHP3Th3fYzutFt_xTVQ&usqp=CAU",
+      "description": "Namelix is 100% free and easy to use.",
+      "link": "https://patbelas39.blogspot.com/p/review.html" 
+    },
+    {
+      "id": 9,
+      "name_category": "Tutorial",
+      "title": "What are some alternatives to Namelix ?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSVYoDu3iLq4j0cmnWgr6ECijsvntmaEj9bw&usqp=CAU",
+      "description": "NameSnack, Business Name Generator.",
+      "link": "https://patbelas39.blogspot.com/p/what-are-some-alternatives-to-namelix.html" 
+    },
+    {
+      "id": 10,
+      "name_category": "Tutorial",
+      "title": "Conclusion",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUqRCHmNaAxiAsViErprP0KnMC2TPCxcmrWA&usqp=CAU",
+      "description": "Namelix is quick and easy to use",
+      "link": "https://patbelas39.blogspot.com/p/conclusion.html" 
     }
   ]
 }
