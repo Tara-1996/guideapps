@@ -1,11 +1,11 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "FACEBOOK",
       "select_backup_ads":"",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_banner": "1332469170672512_1332471204005642",
+      "main_ads_intertitial":"1332469170672512_1332471257338970",
+      "main_ads_natives":"1332469170672512_1332936487292447",
       "backup_ads_natives":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
