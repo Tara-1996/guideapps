@@ -1,0 +1,89 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Slides Ai Advice",
+      "image": "https://play-lh.googleusercontent.com/sihobgS1t7uMAsQklJHp1Km2-cw5oO_MI4ZASIlR6ree2sRV3XLI6DfV0noCj21wgg=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.guideslidesai&hl=en-ID"
+    },
+    {
+      "id": 2,
+      "title": "Wisecut Ai App Helper",
+      "image": "https://play-lh.googleusercontent.com/rKlrI-kkQW2jkH7f2cakEG7Gsp2eI_PQ9mEJuccxClAoybwsNSwZBPmqZN7pbgdL_0lQ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.guidewisecutai&hl=id-ID"
+    },
+    {
+      "id": 3,
+      "title": "Bokeh Jpg Full Hd",
+      "image": "https://play-lh.googleusercontent.com/cydoyndm4o43HFu_wQTX7JNoDYAxKgksNR_abDWILzJ0R5MiwdQUg7QOOPLXI4Ro=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.guidebokehjpg&hl=id-ID"
+    },
+    {
+      "id": 4,
+      "title": "Flair Ai App Workflow",
+      "image": "https://play-lh.googleusercontent.com/kokFfVcVu9L7gC-Owky_QT8MLPZIobA_-_EDDrB3OzQ6nwl-N_nQ3bIXBeFuZkmK5Q=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.guideflairai&hl=id-ID"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Sugar Live Apk Social Media Live Streaming",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzE0rCcJYcd7py3pfKUapeLskwiyWRNDC2wg&usqp=CAU",
+      "description": "Sugar Live Apk Social Media Live Streaming...",
+      "link": "https://patbelas39.blogspot.com/p/sugar-live-apk-sosial-media-live.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "What is Sugar Live Apk?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzE0rCcJYcd7py3pfKUapeLskwiyWRNDC2wg&usqp=CAU",
+      "description": "What is Sugar Live Apk Is...",
+      "link": "https://patbelas39.blogspot.com/p/what-is-sugar-live-apk.html" 
+    }
+  ]
+}
