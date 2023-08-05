@@ -28,21 +28,21 @@
    "More": [
     {
       "id": 1,
-      "title": "Slides Ai Advice",
-      "image": "https://play-lh.googleusercontent.com/sihobgS1t7uMAsQklJHp1Km2-cw5oO_MI4ZASIlR6ree2sRV3XLI6DfV0noCj21wgg=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.guideslidesai&hl=en-ID"
+      "title": "Hot 51 : Live video call guide",
+      "image": "https://play-lh.googleusercontent.com/0RNt9v67CIES-rqVgzZGIt-Ew1JcsjqIzSdX_BFun1gD0AlUY75zkrZIjd-kCBDH8bQ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.hotlimasatu&hl=id-ID"
     },
     {
       "id": 2,
-      "title": "Wisecut Ai App Helper",
-      "image": "https://play-lh.googleusercontent.com/rKlrI-kkQW2jkH7f2cakEG7Gsp2eI_PQ9mEJuccxClAoybwsNSwZBPmqZN7pbgdL_0lQ=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.guidewisecutai&hl=id-ID"
+      "title": "Live Hot Live Streaming Guide",
+      "image": "https://play-lh.googleusercontent.com/FDNq6_mpVA4Q70Rn9tliugwCh-MG2ivyY5I2upmYruMG9kadOu4e95EONOLZbl_6EA=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.livehot&hl=id-ID"
     },
     {
       "id": 3,
-      "title": "Bokeh Jpg Full Hd",
-      "image": "https://play-lh.googleusercontent.com/cydoyndm4o43HFu_wQTX7JNoDYAxKgksNR_abDWILzJ0R5MiwdQUg7QOOPLXI4Ro=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.guidebokehjpg&hl=id-ID"
+      "title": "Namelix Ai App Workflow",
+      "image": "https://play-lh.googleusercontent.com/740twM8E5JS9asShC45kR54z_XP9i6CsRZV44pcMwsNRMF_C0hqgOgjbuEmD2zbPPyM=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.guidenamelixai&hl=id-ID"
     },
     {
       "id": 4,
@@ -79,7 +79,7 @@
     },
     {
       "id": 2,
-      "name_category": "Tutorial",
+      "name_category": "Include Link",
       "title": "Bling2 Live MOD APK 2.11.8 Latest Unlock Room 2023",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFNck2IYhv8YHlYXhqdZYj2WnqXibtHtz2wQ&usqp=CAU",
       "description": "Nowadays, many people are looking for an interesting and fun money-making live streaming application to fill their free time",
@@ -87,7 +87,7 @@
     },
     {
       "id": 3,
-      "name_category": "Tutorial",
+      "name_category": "Include Link",
       "title": "How To Install Bling2 Com APK Live Bar-Bar",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRluO09DDHfVnibxJUEQwrEjqUTwOjdzTKguBi0XGH1_vfusS9Op7T9BDlX7KU42qj0Ybg&usqp=CAU",
       "description": "How To Install Bling2 Com APK Live Bar-Bar",
@@ -95,7 +95,7 @@
     },
     {
       "id": 4,
-      "name_category": "Tutorial",
+      "name_category": "Include Link",
       "title": "Download link and how to install Bling2 Com APK Live Bars",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQaGQETZXim5N-p98oxcrmJqw8sP7iPrStcLQ2p9nX1xYkKyeHMzV4VfvRH_Zpq2faD3s&usqp=CAU",
       "description": "Live Streaming Application Besides Bling2",
@@ -103,7 +103,7 @@
     },
     {
       "id": 5,
-      "name_category": "Tutorial",
+      "name_category": "Include Link",
       "title": "Live Streaming Application Besides Bling2",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8bIHsSxj2HyXORjsBq6GFTBCcXO_nrRh-U93iUcBRFRPsBSYkWBP9TbjE-h6QPoqqJU&usqp=CAU",
       "description": "Live Streaming Application Besides Bling2",
@@ -111,7 +111,7 @@
     },
     {
       "id": 6,
-      "name_category": "Tutorial",
+      "name_category": "Include Link",
       "title": "Get to know the Interesting Application of Bling2 Live",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFNck2IYhv8YHlYXhqdZYj2WnqXibtHtz2wQ&usqp=CAU",
       "description": "Get to know the Interesting Application of Bling2 Live",
@@ -119,7 +119,7 @@
     },
     {
       "id": 7,
-      "name_category": "Tutorial",
+      "name_category": "Include Link",
       "title": "Featured Features in the Application",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCD5TBg_cKNjni6cTqk_QB9BxBFz5YiTK9Tz4y8kOagRQePNLqHC_Q0hAk3G9xikaHCJ4&usqp=CAU",
       "description": "Featured Features in the Application",
@@ -127,7 +127,7 @@
     },
     {
       "id": 8,
-      "name_category": "Tutorial",
+      "name_category": "Include Link",
       "title": "How to Operate Bling2 Live",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSORw0U6Cr_j5KcXUiLFpkqKz9qgPGohDR9qyWKUFAqsWMAN_Rx_RRBk0JV1o8jFnpzIaU&usqp=CAU",
       "description": "How to Operate Bling2 Live",
@@ -135,15 +135,15 @@
     },
     {
       "id": 9,
-      "name_category": "Tutorial",
+      "name_category": "Include Link",
       "title": "How to Register a Blink2 Live Account",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZIOiMdFxKi2VZe44TFkYUBz-DgrskQB2AemWaNmtMC6vsP8qmvczmimNzmUGywNVxTTE&usqp=CAU",
       "description": "How to Register a Blink2 Live Account",
       "link": "https://patbelas39.blogspot.com/p/how-to-register-blink2-live-account.html" 
     },
     {
-      "id": 2,
-      "name_category": "Tutorial",
+      "id": 10,
+      "name_category": "Include Link",
       "title": "Coin Top Up On Bling2 Live",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaxmfmkxwcbhuD4cYEcZQeHpLoiwtopT1eBXeJ2s071r9wQz4fslOcpoiVSlN02SDE2bw&usqp=CAU",
       "description": "Coin Top Up On Bling2 Live",
