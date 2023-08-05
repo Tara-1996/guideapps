@@ -5,7 +5,7 @@
       "select_backup_ads":"",
       "main_ads_banner": "1274076993474244_1274077926807484",
       "main_ads_intertitial":"1274076993474244_1274077793474164",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_natives":"1274076993474244_1279662206249056",
       "backup_ads_natives":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
