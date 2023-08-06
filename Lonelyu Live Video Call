@@ -1,0 +1,139 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Hot 51 : Live video call guide",
+      "image": "https://play-lh.googleusercontent.com/0RNt9v67CIES-rqVgzZGIt-Ew1JcsjqIzSdX_BFun1gD0AlUY75zkrZIjd-kCBDH8bQ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.hotlimasatu&hl=en-ID"
+    },
+    {
+      "id": 2,
+      "title": "Live Video Bling2",
+      "image": "https://play-lh.googleusercontent.com/uoUCeH3x1B_61QwpVk7Sqb9Bd-FlOevyIb91N43_rWPDnF5XW1VDXsGmFbJapcZ_WD8=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.blingblingguide&hl=en-ID"
+    },
+    {
+      "id": 3,
+      "title": "Real Girls : Live Video Guide",
+      "image": "https://play-lh.googleusercontent.com/Wen6tvuc0jcYIadm9e6ceyyWmbylaR1L6b3XBB0ArVQdI6XkqSwzw2jyP4cD-e5VTBs=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.realgirls&hl=id-ID"
+    },
+    {
+      "id": 4,
+      "title": "Flair Ai App Workflow",
+      "image": "https://play-lh.googleusercontent.com/kokFfVcVu9L7gC-Owky_QT8MLPZIobA_-_EDDrB3OzQ6nwl-N_nQ3bIXBeFuZkmK5Q=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.guideflairai&hl=id-ID"
+    },
+    {
+      "id": 5,
+      "title": "Bling2 App Guide",
+      "image": "https://play-lh.googleusercontent.com/SWoqt3GjAtvAT4qzW6AMdMZbCiyrMafVqqlOdDVJGgRAkVEPiBN9qntz6y9huOfGoA=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.MRdeveloper.blingblingguide&hl=en-ID"
+    },
+    {
+      "id": 6,
+      "title": "Live Hot Live Streaming Guide",
+      "image": "https://play-lh.googleusercontent.com/FDNq6_mpVA4Q70Rn9tliugwCh-MG2ivyY5I2upmYruMG9kadOu4e95EONOLZbl_6EA=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.livehot&hl=en-ID"
+    },
+    {
+      "id": 7,
+      "title": "9Lotto App Tips",
+      "image": "https://play-lh.googleusercontent.com/J7g51mdIVPnUWJU_FHYR_NcocZwV23cTanhxqmPD8CE8McMol8DYsq8GuTNKB8rLKYRO=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.MRdeveloper.guide9ninelotto&hl=en-ID"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Best Live",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Very useful live streaming app designed to...",
+      "link": "https://patbelas39.blogspot.com/p/thlive.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Included link",
+      "title": "Benefits",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Allows users to watch livestream videos of...",
+      "link": "https://patbelas39.blogspot.com/p/benefits-of-using-thlive-apk.html" 
+    },
+    {
+      "id": 3,
+      "name_category": "Included link",
+      "title": "Conclusion",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Live streaming application, helping users to...",
+      "link": "https://patbelas39.blogspot.com/p/conclusion_5.html" 
+    },
+    {
+      "id": 4,
+      "name_category": "Included link",
+      "title": "Best Live FBS",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "APK For Android/ iOS Now. If you...",
+      "link": "https://patbelas39.blogspot.com/p/fbs-live.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Included link",
+      "title": "Features",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "FBS to stream live videos on...",
+      "link": "https://patbelas39.blogspot.com/p/features-of-fbslive-apk-for-android.html" 
+    },
+    {
+      "id": 6,
+      "name_category": "Included link",
+      "title": "Pros and Cons",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "APK has a simple, user-friendly...",
+      "link": "https://patbelas39.blogspot.com/p/pros-and-cons-of-fbs-live-apk-latest.html" 
+    }
+  ]
+}
