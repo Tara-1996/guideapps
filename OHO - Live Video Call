@@ -1,0 +1,131 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Hot 51 : Live video call guide",
+      "image": "https://play-lh.googleusercontent.com/0RNt9v67CIES-rqVgzZGIt-Ew1JcsjqIzSdX_BFun1gD0AlUY75zkrZIjd-kCBDH8bQ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.hotlimasatu&hl=en-ID"
+    },
+    {
+      "id": 2,
+      "title": "Live Video Bling2",
+      "image": "https://play-lh.googleusercontent.com/uoUCeH3x1B_61QwpVk7Sqb9Bd-FlOevyIb91N43_rWPDnF5XW1VDXsGmFbJapcZ_WD8=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.blingblingguide&hl=en-ID"
+    },
+    {
+      "id": 3,
+      "title": "Real Girls : Live Video Guide",
+      "image": "https://play-lh.googleusercontent.com/Wen6tvuc0jcYIadm9e6ceyyWmbylaR1L6b3XBB0ArVQdI6XkqSwzw2jyP4cD-e5VTBs=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.realgirls&hl=id-ID"
+    },
+    {
+      "id": 4,
+      "title": "Flair Ai App Workflow",
+      "image": "https://play-lh.googleusercontent.com/kokFfVcVu9L7gC-Owky_QT8MLPZIobA_-_EDDrB3OzQ6nwl-N_nQ3bIXBeFuZkmK5Q=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.guideflairai&hl=id-ID"
+    },
+    {
+      "id": 5,
+      "title": "Bling2 App Guide",
+      "image": "https://play-lh.googleusercontent.com/SWoqt3GjAtvAT4qzW6AMdMZbCiyrMafVqqlOdDVJGgRAkVEPiBN9qntz6y9huOfGoA=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.MRdeveloper.blingblingguide&hl=en-ID"
+    },
+    {
+      "id": 6,
+      "title": "Live Hot Live Streaming Guide",
+      "image": "https://play-lh.googleusercontent.com/FDNq6_mpVA4Q70Rn9tliugwCh-MG2ivyY5I2upmYruMG9kadOu4e95EONOLZbl_6EA=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.livehot&hl=en-ID"
+    },
+    {
+      "id": 7,
+      "title": "9Lotto App Tips",
+      "image": "https://play-lh.googleusercontent.com/J7g51mdIVPnUWJU_FHYR_NcocZwV23cTanhxqmPD8CE8McMol8DYsq8GuTNKB8rLKYRO=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.MRdeveloper.guide9ninelotto&hl=en-ID"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": " Get to know the Mlive MOD APK application",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "The Mlive application is an application that provides live viewing services or in...",
+      "link": "https://patbelas39.blogspot.com/p/get-to-know-mlive-mod-apk-application.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Included link",
+      "title": "Mlive MOD APK is a No Ads App",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "The next feature that we will review about its advantages is...",
+      "link": "https://patbelas39.blogspot.com/p/mlive-mod-apk-is-no-ads-app.html" 
+    },
+    {
+      "id": 3,
+      "name_category": "Included link",
+      "title": "Providing Other Entertainment Features",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Every human being certainly has a sense of boredom or...",
+      "link": "https://patbelas39.blogspot.com/p/providing-other-entertainment-features.html" 
+    },
+    {
+      "id": 4,
+      "name_category": "Included link",
+      "title": "Download MLive Mod APK Unlock Room Free",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "If you use the original version of...",
+      "link": "https://patbelas39.blogspot.com/p/download-mlive-mod-apk-unlock-room-free.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Included link",
+      "title": "How to Install MLive MOD on Android",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "And the next step, because this application was downloaded from...",
+      "link": "https://patbelas39.blogspot.com/p/how-to-install-mlive-mod-on-android.html" 
+    }
+  ]
+}
