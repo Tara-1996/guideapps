@@ -54,82 +54,162 @@
     {
       "id": 1,
       "name_category": "Playstore",
-      "title": " What is Flair Ai",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAShyXGzJmNS8XCHE3Jq3vMX6kYlUifrIhVg&usqp=CAU",
-      "description": "Flair Ai Is...",
-      "link": "https://patbelas39.blogspot.com/p/flair-ai.html"
+      "title": "Best Live Hot Apk",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Best Anti-Banned Free Hot Live Applications for 2023",
+      "link": "https://patbelas39.blogspot.com/p/best-live-hot.html"
     },
     {
       "id": 2,
-      "name_category": "Tutorial",
-      "title": "Flair AI: Revolutionizing AI Content Design",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSecznerPLhUFvJmX0xpAex3Yv31veVaCSbhjHWWcMmPBOqCHIdKyAK2EjzrVNeFeyeBI4&usqp=CAU",
-      "description": "Flair AI: Revolutionizing AI Content Design",
-      "link": "https://patbelas39.blogspot.com/p/flair-ai-revolutionizing-ai-content.html" 
+      "name_category": "inside link",
+      "title": "Review About Hot 51 Live Mod Apk Free",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Live Mod Apk is an application that has been modified by a third party by...",
+      "link": "https://patbelas39.blogspot.com/p/review-about-hot-51-live-mod-apk-free.html" 
     },
     {
       "id": 3,
-      "name_category": "Tutorial",
-      "title": "Features and Capabilities of Flair AI Design Tool",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5BvGEegTsa6xxoxAbt8Cqs2vOmoUjScB5Q&usqp=CAU",
-      "description": "Features and Capabilities of Flair AI Design Tool",
-      "link": "https://patbelas39.blogspot.com/p/flair-ai-design-tool.html" 
+      "name_category": "inside link",
+      "title": "How to Install Hot 51 Live Mod Anti Banned Apk?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "To be able to use the Hot 51 Live Bar Bar Apk application, you need to make a few changes to...",
+      "link": "https://patbelas39.blogspot.com/p/how-to-install-hot-51-live-mod-anti.html" 
     },
     {
       "id": 4,
-      "name_category": "Tutorial",
-      "title": "Flair AI Design Tool",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6YQ2NCkz_MvR3nsSYbVVEtJJzjCz40q21vg&usqp=CAU",
-      "description": "Flair AI Design Tool",
-      "link": "https://patbelas39.blogspot.com/p/features-and-capabilities-of-flair-ai.html" 
+      "name_category": "inside link",
+      "title": "What is Sugar Live Apk?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Please note, the Sugar Live Apk application is a live streaming application platform like TikTk",
+      "link": "https://patbelas39.blogspot.com/p/what-is-sugar-live-apk.html" 
     },
     {
       "id": 5,
-      "name_category": "Tutorial",
-      "title": "Benefits of Using Flair AI Design Tool",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjrpxIqBFIMKaESptu6Wf3sd2NwdeUb2cow&usqp=CAU",
-      "description": "Benefits of Using Flair AI Design Tool",
-      "link": "https://patbelas39.blogspot.com/p/benefits-of-using-flair-ai-design-tool.html" 
+      "name_category": "inside link",
+      "title": "Sugar Live Apk Social Media Live Streaming",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Today's social media is mostly filled with video content...",
+      "link": "https://patbelas39.blogspot.com/p/sugar-live-apk-sosial-media-live.html" 
     },
     {
       "id": 6,
-      "name_category": "Tutorial",
-      "title": " How to Use Flair AI Design Tool?",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjrpxIqBFIMKaESptu6Wf3sd2NwdeUb2cow&usqp=CAU",
-      "description": " How to Use Flair AI Design Tool?",
-      "link": "https://patbelas39.blogspot.com/p/how-to-use-flair-ai-design-tool.html" 
+      "name_category": "inside link",
+      "title": "MMLive",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "MMLive APK is an application for you to join the online community and...",
+      "link": "https://patbelas39.blogspot.com/p/how-to-install-hot-51-live-mod-anti.html" 
     },
     {
       "id": 7,
-      "name_category": "Tutorial",
-      "title": " Examples of Flair AI Design Tool in Action",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjrpxIqBFIMKaESptu6Wf3sd2NwdeUb2cow&usqp=CAU",
-      "description": " Examples of Flair AI Design Tool in Action",
-      "link": "https://patbelas39.blogspot.com/p/examples-of-flair-ai-design-tool-in.html" 
+      "name_category": "inside link",
+      "title": "How to use MMLive APK For Android",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "To use MMLive APK Room, users need to...",
+      "link": "https://patbelas39.blogspot.com/p/how-to-use-mmlive-apk-for-android.html" 
     },
     {
       "id": 8,
-      "name_category": "Tutorial",
-      "title": " Strengths and Weaknesses of Flair AI",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjrpxIqBFIMKaESptu6Wf3sd2NwdeUb2cow&usqp=CAU",
-      "description": " Strengths and Weaknesses of Flair AI",
-      "link": "https://patbelas39.blogspot.com/p/strengths-and-weaknesses-of-flair-ai.html" 
+      "name_category": "inside link",
+      "title": "Advantage and Defect of MMLive APK Latest version",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Simple interface, easy to...",
+      "link": "https://patbelas39.blogspot.com/p/advantage-and-defect-of-mmlive-apk.html" 
     },
     {
       "id": 9,
-      "name_category": "Tutorial",
-      "title": "Pricing of Flair AI",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjrpxIqBFIMKaESptu6Wf3sd2NwdeUb2cow&usqp=CAU",
-      "description": "Pricing of Flair AI",
-      "link": "https://patbelas39.blogspot.com/p/pricing-of-flair-ai.html" 
+      "name_category": "inside link",
+      "title": "UF Live",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "UF Live APK is the newest and free live streaming application...",
+      "link": "https://patbelas39.blogspot.com/p/uf-live.html" 
     },
     {
       "id": 10,
-      "name_category": "Tutorial",
-      "title": " Comparison & conclusion",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjrpxIqBFIMKaESptu6Wf3sd2NwdeUb2cow&usqp=CAU",
-      "description": "Comparison & conclusion",
-      "link": "https://patbelas39.blogspot.com/p/comparison-conclusion.html" 
+      "name_category": "inside link",
+      "title": "How to use UF Live APK",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Download and install the UF Live APK app on your mobile device...",
+      "link": "https://patbelas39.blogspot.com/p/how-to-use-uf-live-apk.html" 
+    },
+    {
+      "id": 11,
+      "name_category": "inside link",
+      "title": "Advantage and Defect of UF Live APK",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Provides many useful features for users, including watching live football...",
+      "link": "https://patbelas39.blogspot.com/p/advantage-and-defect-of-uf-live-apk.html" 
+    },
+    {
+      "id": 12,
+      "name_category": "inside link",
+      "title": "Hamster Live",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Hamster Live APK is a powerful and popular live video streaming application that...",
+      "link": "https://patbelas39.blogspot.com/p/hamster-live.html" 
+    },
+    {
+      "id": 13,
+      "name_category": "inside link",
+      "title": "Instructions, how to use Hamster Live APK iOS",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Download and install the app: First...",
+      "link": "https://patbelas39.blogspot.com/p/instructions-how-to-use-hamster-live.html" 
+    },
+    {
+      "id": 14,
+      "name_category": "inside link",
+      "title": "Tips and advice when using Hamster Live APK",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Create engaging content: To engage viewers and build a loyal...",
+      "link": "https://patbelas39.blogspot.com/p/tips-and-advice-when-using-hamster-live.html" 
+    },
+    {
+      "id": 15,
+      "name_category": "inside link",
+      "title": "Pros and cons Hamster Live APK Latest Version",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Easy Video Streaming...",
+      "link": "https://patbelas39.blogspot.com/p/pros-and-cons-hamster-live-apk-latest.html" 
+    },
+    {
+      "id": 16,
+      "name_category": "inside link",
+      "title": "HotLive",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "HotLive APK is a cool random video chat app that gives...",
+      "link": "https://patbelas39.blogspot.com/p/hotlive.html" 
+    },
+    {
+      "id": 17,
+      "name_category": "inside link",
+      "title": "Features of HotLive APK For Android",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Here are the details of all the key features of the HotLive app APK...",
+      "link": "https://patbelas39.blogspot.com/p/features-of-hotlive-apk-for-android.html" 
+    },
+    {
+      "id": 18,
+      "name_category": "inside link",
+      "title": "Instructions, how to use HotLive Mobile App APK",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Download and install the app: First, you need to...",
+      "link": "https://patbelas39.blogspot.com/p/instructions-how-to-use-hotlive-mobile.html" 
+    },
+    {
+      "id": 19,
+      "name_category": "inside link",
+      "title": "Tips and advice when using HotLive APK iOS",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Privacy of Personal Information: Always be...",
+      "link": "https://patbelas39.blogspot.com/p/tips-and-advice-when-using-hotlive-apk.html" 
+    },
+    {
+      "id": 20,
+      "name_category": "inside link",
+      "title": "Pros and cons HotLive APK Latest Version",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Meet and connect with new people: HotLive allows you to...",
+      "link": "https://patbelas39.blogspot.com/p/pros-and-cons-hotlive-apk-latest-version.html" 
     }
   ]
 }
