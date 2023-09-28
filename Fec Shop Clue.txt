@@ -1,0 +1,93 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Hot 51 : Live video call guide",
+      "image": "https://play-lh.googleusercontent.com/0RNt9v67CIES-rqVgzZGIt-Ew1JcsjqIzSdX_BFun1gD0AlUY75zkrZIjd-kCBDH8bQ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.hotlimasatu&hl=en-ID"
+    },
+    {
+      "id": 2,
+      "title": "Live Video Bling2",
+      "image": "https://play-lh.googleusercontent.com/uoUCeH3x1B_61QwpVk7Sqb9Bd-FlOevyIb91N43_rWPDnF5XW1VDXsGmFbJapcZ_WD8=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.blingblingguide&hl=en-ID"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "What is the FEC Shop Application?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_yUHWum18EeyK6RSwvuP0sEBPPma98fz6w&usqp=CAU",
+      "description": "ven on September 4 2023, the OJK's Task Force for Eradicating Illegal",
+      "link": "https://majujayaltd.blogspot.com/p/what-is-fec-shop-application.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "How the FEC Shop Application Works",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNlxB_h7xAQy3RdBkig-Vn-tET847QVwZKfQ&usqp=CAU",
+      "description": "Based on various sources, application users need to",
+      "link": "https://majujayaltd.blogspot.com/p/how-fec-shop-application-works.html" 
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Reasons why OJK revokes PT FEC Shopping Indonesia's business license",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNlxB_h7xAQy3RdBkig-Vn-tET847QVwZKfQ&usqp=CAU",
+      "description": "Quoting from the OJK website, the PAKI Task Force",
+      "link": "https://majujayaltd.blogspot.com/p/reasons-why-ojk-revokes-pt-fec-shopping.html" 
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "Officially Closed! The FEC Shop Indonesia",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNlxB_h7xAQy3RdBkig-Vn-tET847QVwZKfQ&usqp=CAU",
+      "description": "Application turns out to be a scam with a Ponzi scheme, can you get your money back?",
+      "link": "https://majujayaltd.blogspot.com/p/officially-closed.html" 
+    }
+  ]
+}
